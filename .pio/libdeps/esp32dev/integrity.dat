@@ -1,0 +1,6 @@
+sandeepmistry/LoRa @ ^0.8.0
+arduino-libraries/NTPClient @ ^3.2.1
+bblanchon/ArduinoJson
+robocore/RoboCore - SMW_SX1276M0
+adafruit/Adafruit Unified Sensor
+adafruit/DHT sensor library
